@@ -1,6 +1,6 @@
 # hl-recon
 
-Rust sources recovered from the stripped `hl-node` binary. Reverse engineered, not official.
+Rust sources recovered from the stripped `hl-node` binary. Reverse engineered with an agentic coding harness driving IDA, not official.
 
 Layout mirrors what the build metadata implied:
 
